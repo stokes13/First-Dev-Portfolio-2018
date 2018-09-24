@@ -89,6 +89,10 @@ li {
 	width: 12rem;
 }
 
+#Projects{
+	background-color: #ffdead;
+}
+
 #footer {
 	float: right;
 	background-color: #0099D3;
